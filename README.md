@@ -4,3 +4,7 @@ This repository is all about to store the projects, code snippets, concepts cont
 
 As this is my first Machine Learning Project 
 
+### Supervised Machine Learning
+
+### Unsupervised Machine Learning
+
